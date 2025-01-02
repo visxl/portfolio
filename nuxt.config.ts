@@ -19,4 +19,7 @@ export default defineNuxtConfig({
       failOnError: false, // Ignore errors during prerendering
     },
   },
+  app: {
+    baseURL: '/portfolio/', // GitHub repository name
+  },
 })

@@ -2,21 +2,21 @@
     <header class="w-fullh-[50px] shadow-md">
         <div class="flex justify-between py-5 align-middle">
             <div class="flex ml-6">
-                <Icon name="stash:burger-classic-duotone" class="w-6 h-6 text-gray-900"/>
+                <Icon name="stash:burger-classic-duotone" class="w-6 h-6 text-gray-900 dark:text-gray-300"/>
             </div>
             <div class="flex gap-10 mr-6">
-                <span class="font-mono text-gray-900 hover:-translate-y-1">Education</span>
-                <span class="font-mono text-gray-900 hover:-translate-y-1">Skills</span>
-                <span class="font-mono text-gray-900 hover:-translate-y-1">Experience</span>
-                <span class="font-mono text-gray-900 hover:-translate-y-1">Contact</span>
-                <span class="font-mono text-gray-900 hover:-translate-y-1">About me</span>
+                <span class="font-mono text-gray-900 hover:-translate-y-1 dark:text-gray-300">Education</span>
+                <span class="font-mono text-gray-900 hover:-translate-y-1 dark:text-gray-300">Skills</span>
+                <span class="font-mono text-gray-900 hover:-translate-y-1 dark:text-gray-300">Experience</span>
+                <span class="font-mono text-gray-900 hover:-translate-y-1 dark:text-gray-300">Contact</span>
+                <span class="font-mono text-gray-900 hover:-translate-y-1 dark:text-gray-300">About me</span>
             </div>
         </div>
     </header>
 
     <main class="gap-4 px-4 mt-4 ">
         <div class="relative h-[850px] w-full bg-gray-900 rounded-xl">
-            <img src="../public/images/photo-1519681393784-d120267933ba.avif" class="absolute inset-0 object-cover w-full h-full shadow-md opacity-50 rounded-xl grayscale"/>
+            <img src="../portfolio/images/photo-1519681393784-d120267933ba.avif" class="absolute inset-0 object-cover w-full h-full shadow-md opacity-50 rounded-xl grayscale"/>
             <span class="absolute inset-0 flex items-center justify-center font-bold text-white text-7xl">
                 Hello, I'm Meas Vathanakvisal
             </span>
@@ -30,7 +30,7 @@
 
         <div class="flex justify-start gap-4 px-64 mt-10">
             <div class="flex w-[600px]">
-                <img src="../public/images/Nezu_Full_Body.webp" alt="Photo" class="w-48 h-56 grayscale"/>
+                <img src="../portfolio/images/Nezu_Full_Body.webp" alt="Photo" class="w-48 h-56 grayscale"/>
             </div>
             
             <div class="flex flex-col w-full px-10 ">
