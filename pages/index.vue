@@ -16,7 +16,7 @@
 
     <main class="gap-4 px-4 mt-4 ">
         <div class="relative h-[850px] w-full bg-gray-900 rounded-xl">
-            <img src="/public/images/photo-1519681393784-d120267933ba.avif" class="absolute inset-0 object-cover w-full h-full shadow-md opacity-50 rounded-xl grayscale"/>
+            <img src="/public/images/photo-1519681393784-d120267933ba.jpg" class="absolute inset-0 object-cover w-full h-full shadow-md opacity-50 rounded-xl grayscale"/>
             <span class="absolute inset-0 flex items-center justify-center font-bold text-white text-7xl">
                 Hello, I'm Meas Vathanakvisal
             </span>
