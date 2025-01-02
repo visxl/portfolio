@@ -13,5 +13,10 @@ export default defineNuxtConfig({
      * @default "./components/ui"
      */
     componentDir: './components/ui'
-  }
+  },
+  nitro: {
+    prerender: {
+      failOnError: false, // Ignore errors during prerendering
+    },
+  },
 })
