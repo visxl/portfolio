@@ -16,7 +16,7 @@
 
     <main class="gap-4 px-4 mt-4 ">
         <div class="relative h-[850px] w-full bg-gray-900 rounded-xl">
-            <img src="/public/images/photo-1519681393784-d120267933ba.jpg" class="absolute inset-0 object-cover w-full h-full shadow-md opacity-50 rounded-xl grayscale"/>
+            <img src="/images/photo-1519681393784-d120267933ba.jpg" class="absolute inset-0 object-cover w-full h-full shadow-md opacity-50 rounded-xl grayscale"/>
             <span class="absolute inset-0 flex items-center justify-center text-5xl font-bold text-white md:text-7xl">
                 <span class="text-center">Hello, I'm Meas Vathanakvisal</span> 
             </span>
@@ -30,7 +30,7 @@
 
         <div class="flex flex-col gap-4 mt-10 md:flex-row md:px-64">
             <div class="flex items-center justify-center md:w-[600px]">
-                <img src="/public/images/Nezu_Full_Body.webp" alt="Photo" class="w-48 h-56 sm:items-center grayscale"/>
+                <img src="/images/Nezu_Full_Body.webp" alt="Photo" class="w-48 h-56 sm:items-center grayscale"/>
             </div>
             
             <div class="flex flex-col w-full px-10 ">
