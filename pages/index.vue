@@ -179,13 +179,13 @@
             <div class="grid">
                     <span class="font-mono">HTML</span>
                     <div class="bg-gray-200 rounded-full w-full h-2.5">
-                        <div class="h-full bg-gray-500 rounded-full w-96"></div>
+                        <div class="h-full bg-gray-500 rounded-full w-80"></div>
                     </div>
             </div>
             <div class="grid">
                     <span class="font-mono">CSS</span>
                     <div class="bg-gray-200 rounded-full w-full h-2.5">
-                        <div class="h-full bg-gray-500 rounded-full w-96"></div>
+                        <div class="h-full bg-gray-500 rounded-full w-80"></div>
                     </div>
             </div>
             <div class="grid">
