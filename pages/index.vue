@@ -113,7 +113,7 @@
                     </div>
                     <div class="relative flex flex-col items-center">
                         <div class="absolute top-0 ml-4 left-full w-max">
-                            <p class="text-[10px] font-mono text-gray-400">2020-2023</p>
+                            <p class="text-[10px] font-mono text-gray-400">2024-Today</p>
                             <h6 class="font-mono text-sm text-gray-800">Software Development</h6>
                             <p class="text-[10px] font-mono text-gray-400">Step IT Academy</p>
                         </div>
@@ -180,52 +180,36 @@
 
         <div class="grid grid-cols-1 gap-8 mt-10 md:px-64 md:grid-cols-2">
             <div class="grid">
-                    <span class="font-mono">HTML</span>
-                    <div class="bg-gray-200 rounded-full w-full h-2.5">
-                        <div class="w-64 h-full bg-gray-500 rounded-full"></div>
-                    </div>
+                <span class="font-mono">HTML</span>
+                <UProgress :value="95" color="gray"/>
             </div>
             <div class="grid">
-                    <span class="font-mono">CSS</span>
-                    <div class="bg-gray-200 rounded-full w-full h-2.5">
-                        <div class="w-64 h-full bg-gray-500 rounded-full"></div>
-                    </div>
+                <span class="font-mono">CSS</span>
+                <UProgress :value="90" color="gray"/>
             </div>
             <div class="grid">
-                    <span class="font-mono">Javascript</span>
-                    <div class="bg-gray-200 rounded-full w-full h-2.5">
-                        <div class="w-56 h-full bg-gray-500 rounded-full"></div>
-                    </div>
+                <span class="font-mono">Javascript</span>
+                <UProgress :value="58" color="gray"/>
             </div>
             <div class="grid">
-                    <span class="font-mono">Typescript</span>
-                    <div class="bg-gray-200 rounded-full w-full h-2.5">
-                        <div class="w-64 h-full bg-gray-500 rounded-full"></div>
-                    </div>
+                <span class="font-mono">Typescript</span>
+                <UProgress :value="60" color="gray"/>
             </div>
             <div class="grid">
-                    <span class="font-mono">Java</span>
-                    <div class="bg-gray-200 rounded-full w-full h-2.5">
-                        <div class="h-full bg-gray-500 rounded-full w-72"></div>
-                    </div>
+                <span class="font-mono">Java</span>
+                <UProgress :value="90" color="gray"/>
             </div>
             <div class="grid">
-                    <span class="font-mono">Spring Boot</span>
-                    <div class="bg-gray-200 rounded-full w-full h-2.5">
-                        <div class="h-full bg-gray-500 rounded-full w-80"></div>
-                    </div>
+                <span class="font-mono">Spring Boot</span>
+                <UProgress :value="90" color="gray"/>
             </div>
             <div class="grid">
-                    <span class="font-mono">React JS</span>
-                    <div class="bg-gray-200 rounded-full w-full h-2.5">
-                        <div class="w-56 h-full bg-gray-500 rounded-full"></div>
-                    </div>
+                <span class="font-mono">React JS</span>
+                <UProgress :value="75" color="gray"/>
             </div>
             <div class="grid">
-                    <span class="font-mono">Nuxt JS</span>
-                    <div class="bg-gray-200 rounded-full w-full h-2.5">
-                        <div class="h-full bg-gray-500 rounded-full w-80"></div>
-                </div>
+                <span class="font-mono">Nuxt JS</span>
+                <UProgress :value="80" color="gray"/>
             </div>
         </div>
         <!-- Skill End -->
