@@ -16,10 +16,22 @@
 
     <main class="gap-4 px-4 mt-4 ">
         <div class="relative h-[850px] w-full bg-gray-900 rounded-xl">
-            <!-- <img src="/images/dreamy-landscape-4k-wv-1920x1080.jpg" class="absolute inset-0 object-cover w-full h-full shadow-md opacity-50 rounded-xl grayscale"/> -->
-            <svg xmlns="http://www.w3.org/2000/svg" class="absolute inset-0 object-cover w-full h-full shadow-md opacity-50 rounded-xl grayscale">
-                <image href="/public/images/dreamy-landscape-4k-wv-1920x1080.jpg" />
-            </svg>
+            <img src="/images/dreamy-landscape-4k-wv-1920x1080.jpg" class="absolute inset-0 object-cover w-full h-full shadow-md opacity-50 rounded-xl grayscale"/>
+            <!-- <img 
+                :src="('@/assets/images/dreamy-landscape-4k-wv-1920x1080.jpg')" 
+                class="absolute inset-0 object-cover w-full h-full shadow-md opacity-50 rounded-xl grayscale"
+                /> -->
+            <!-- <svg 
+                xmlns="http://www.w3.org/2000/svg" 
+                class="absolute inset-0 object-cover w-full h-full shadow-md opacity-50 rounded-xl grayscale"
+                >
+                <image 
+                    href="/images/dreamy-landscape-4k-wv-1920x1080.jpg" 
+                    width="100%" 
+                    height="100%" 
+                    preserveAspectRatio="xMidYMid slice"
+                />
+            </svg> -->
             <span class="absolute inset-0 flex items-center justify-center text-5xl font-bold text-white md:text-7xl">
                 <span class="text-center">Hello, I'm Meas Vathanakvisal</span> 
             </span>
